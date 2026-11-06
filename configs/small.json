@@ -1,0 +1,14 @@
+{
+  "hidden_size": 384,
+  "intermediate_size": 1536,
+  "num_layers": 12,
+  "num_attention_heads": 8,
+  "num_key_value_heads": 4,
+  "head_dim": 48,
+  "out_layers": [5, 7, 9, 11],
+  "alt_start": 4,
+  "patch_size": 16,
+  "cat_local_global": true,
+  "predict_cameras": true,
+  "depth_confidence": true
+}

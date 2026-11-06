@@ -1,0 +1,16 @@
+{
+  "hidden_size": 128,
+  "intermediate_size": 384,
+  "num_layers": 4,
+  "num_attention_heads": 4,
+  "num_key_value_heads": 2,
+  "head_dim": 32,
+  "out_layers": [0, 1, 2, 3],
+  "alt_start": -1,
+  "patch_size": 16,
+  "cat_local_global": false,
+  "predict_cameras": false,
+  "depth_confidence": false,
+  "decoder_features": 32,
+  "decoder_channels": [32, 64, 96, 128]
+}

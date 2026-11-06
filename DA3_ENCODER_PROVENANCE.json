@@ -1,0 +1,13 @@
+{
+  "depth_anything_3/model/dinov2/vision_transformer.py": "c28650e5db0b578745f5a41336709d54d08f952bc08cf1bd2009e2b765111221",
+  "depth_anything_3/model/dinov2/layers/rope.py": "dcd09808cf03ceae7abfdcbe6805ee36990412b5308b09a86c4b51a040cff38b",
+  "depth_anything_3/model/dinov2/layers/__init__.py": "321a97ffc00375d6d48569cbc851a38e7d2dc8bbdbfcffbee722c6c27783acda",
+  "depth_anything_3/model/dinov2/layers/layer_scale.py": "23aba2710d7d425b5abd50c006edef9c9224360d6499171b6c1ec18ef73c0b00",
+  "depth_anything_3/model/dinov2/layers/block.py": "88924cf5cd9fb18b17a8329e4c9910528205c302d8be40be29ad74e97ae7a3b8",
+  "depth_anything_3/model/dinov2/layers/patch_embed.py": "72f14d7b3daf3f545ba93c085b0a90f3b63efcf1a14f8d694dc77763c0607528",
+  "depth_anything_3/model/dinov2/layers/drop_path.py": "80b5cc50297f3049d313c5659c1244901407bdac80cf424c5d7ed64ae79cd141",
+  "depth_anything_3/model/dinov2/layers/attention.py": "d9db2bd66c612df689ec19aa2b60138c4185e38c8cfaaef48fc17f39a5b17c81",
+  "depth_anything_3/model/dinov2/layers/swiglu_ffn.py": "f0e0bab6e9e835b81c53bd69616af43d254a91af4b119923160b7df1602b1562",
+  "depth_anything_3/model/dinov2/layers/mlp.py": "4f17c26120d04e4e4368b07a2396a977044b00d1dcbf1bbd1a9d3447be1aa6cf",
+  "depth_anything_3/model/reference_view_selector.py": "5e1238298a0053e76eab1f2cfd207ae8b0f30fb441c24c915320efed349301e3"
+}
